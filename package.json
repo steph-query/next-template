@@ -1,7 +1,7 @@
 {
-  "name": "giveth",
+  "name": "YOUR PROJECT NAME",
   "version": "1.0.0",
-  "description": "An app to help you donate goods to non profits who are asking for them.",
+  "description": "PROJECT DESCRIPTION",
   "main": "index.js",
   "scripts": {
     "dev": "cp dev.env .env && node server.js",
